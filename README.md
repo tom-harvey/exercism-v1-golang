@@ -10,12 +10,16 @@ generally available for quick inspection. I thought this V1 feature was
 extremely useful because I could quickly survey many other submissions to see
 if there was a better way to solve the problem. 
 
-I'm pretty happy with most of my submissions, except for twelve_days.go, where
-the attempt to create hyper-efficient strings never got finished.
+I'm pretty happy with most of my submissions, except for
+[twelve_days.go](https://github.com/tom-harvey/exercism-v1-golang/blob/master/twelve_days.go),
+where the attempt to achieve hyper-efficient string building never got
+finished.
 
 Many of the exercism v1 problems came with benchmarks, and in most cases I
 attempted to create the fastest possible implementation, at the expense of
-readability and simplicity, with reverse_string.go being the most extreme
-example. This was done with the understanding that premature optimization is
-the root of all efficient libraries. Some of the problem files also include a
-cleaner, simpler implementation under a slightly different name.
+readability and simplicity, with
+[reverse_string.go](https://github.com/tom-harvey/exercism-v1-golang/blob/master/reverse_string.go)
+being the most extreme example. This was done with the understanding that
+premature optimization is the root of all efficient libraries. Some of the
+problem files also include a cleaner, simpler implementation under a slightly
+different name.
