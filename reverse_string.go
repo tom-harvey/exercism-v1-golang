@@ -1,1 +1,1 @@
-reverse_string.go
+/Users/tom/exercism/go/reverse-string/reverse_string.go
