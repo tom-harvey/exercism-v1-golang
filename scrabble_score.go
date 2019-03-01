@@ -1,0 +1,1 @@
+../go/scrabble-score/scrabble_score.go
